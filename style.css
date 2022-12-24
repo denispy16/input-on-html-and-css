@@ -1,0 +1,27 @@
+body{
+    background-color: black
+}
+
+
+
+
+.opis{
+    background-color: aliceblue;
+    margin-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 400px
+}
+
+.nazv{
+    background-color: antiquewhite;
+    margin-left: 650px;
+    margin-top: 300px
+}
+
+
+.but{
+    background-color: chartreuse;
+    margin-left: 980px;
+    margin-top: 0px
+   
+}
